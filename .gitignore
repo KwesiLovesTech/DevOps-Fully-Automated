@@ -70,4 +70,3 @@ docker-compose.yml
 .pipeline/
 *.pipeline-config.yml
 
-.
