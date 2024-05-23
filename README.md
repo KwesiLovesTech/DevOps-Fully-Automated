@@ -331,6 +331,8 @@ http://replace-public-ip:8080/webapp
 
 Replace `replace-public-ip` with the actual public IP address of the server you wish to access.
 
-# Cheers ! Kwesi 😊👍
+#### Happy Automation from me, Kwesi! 🚀😊👍
+
+Cheers and code on! 🎉
 
 
