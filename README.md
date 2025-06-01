@@ -1,4 +1,4 @@
-### End-to-End Jenkins CI/CD Pipeline with Ansible for Java Web Application
+### End-to-End Jenkins CI/CD Pipeline for Java Web Application
 
 #### 📌 Project Overview
 
